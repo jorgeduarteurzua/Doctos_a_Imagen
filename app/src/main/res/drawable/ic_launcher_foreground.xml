@@ -1,0 +1,28 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Documento (hoja de informe) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,28 h24 l14,14 v38 a2,2 0 0 1 -2,2 h-36 a2,2 0 0 1 -2,-2 v-50 a2,2 0 0 1 2,-2 z" />
+    <!-- Doblez de la esquina -->
+    <path
+        android:fillColor="#B2DFDB"
+        android:pathData="M62,28 l14,14 h-14 z" />
+
+    <!-- Cruz médica (símbolo salud) -->
+    <path
+        android:fillColor="#00897B"
+        android:pathData="M52,48 h6 v6 h6 v6 h-6 v6 h-6 v-6 h-6 v-6 h6 z" />
+
+    <!-- Marcador / pin de hallazgo -->
+    <path
+        android:fillColor="#FF7043"
+        android:pathData="M66,74 m-7,0 a7,7 0 1,0 14,0 a7,7 0 1,0 -14,0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M66,74 m-2.5,0 a2.5,2.5 0 1,0 5,0 a2.5,2.5 0 1,0 -5,0" />
+</vector>
